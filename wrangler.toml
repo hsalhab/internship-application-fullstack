@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "ab-muffin-testing"
 type = "javascript"
-account_id = ""
+account_id = "e501fcdfa693980101418a091a330f82"
 workers_dev = true
 route = ""
 zone_id = ""
